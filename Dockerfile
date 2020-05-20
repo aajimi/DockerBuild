@@ -1,3 +1,3 @@
-FROM hello-word
+FROM nginx
 
 RUN npm install
